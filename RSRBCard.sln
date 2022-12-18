@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSRBCard", "Assembly-CSharp.csproj", "{7F7477D7-E28F-CCF8-4613-B3AED7CD014D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSRBCard", "Assembly-CSharp-Editor.csproj", "{9B216109-68D4-A8E5-879E-00855CB8F3BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F7477D7-E28F-CCF8-4613-B3AED7CD014D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F7477D7-E28F-CCF8-4613-B3AED7CD014D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F7477D7-E28F-CCF8-4613-B3AED7CD014D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F7477D7-E28F-CCF8-4613-B3AED7CD014D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B216109-68D4-A8E5-879E-00855CB8F3BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B216109-68D4-A8E5-879E-00855CB8F3BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B216109-68D4-A8E5-879E-00855CB8F3BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B216109-68D4-A8E5-879E-00855CB8F3BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
