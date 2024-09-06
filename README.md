@@ -13,8 +13,6 @@ RSRBCard is a virtual business card application developed for RSR Restaurant in 
 ## Features
 
 - **Augmented Reality Integration**: Utilizes AR technology to enhance the business card experience.
-- **Interactive Elements**: [Add specific interactive features of your virtual business card]
-- **Custom 3D Models**: [If applicable, mention any 3D models used in the project]
 
 ## Project Structure
 
@@ -22,7 +20,6 @@ The project is structured as a standard Unity project with the following key com
 
 - `Assets/DataFiles/Scripts/R.cs`: Main script file (Purpose to be specified)
 - `Assets/Vuforia/`: Contains Vuforia-related scripts and assets
-- [Add other important directories or files]
 
 ## Setup and Installation
 
@@ -32,11 +29,6 @@ The project is structured as a standard Unity project with the following key com
    ```
 2. Open the project in Unity 2017.3.1f1
 3. Ensure Vuforia is properly set up in your Unity environment
-4. [Add any additional setup steps]
-
-## Usage
-
-[Provide instructions on how to use the virtual business card, including any specific AR markers or triggers]
 
 ## Development
 
